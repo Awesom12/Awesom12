@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Sujana Kotike
+- 🔭 I’m currently using **Cypress, Selenium, Jmeter, BurpSuite, Gitlab, AWS**
+- 🌱 I’m currently learning **new Test Automation Techniques, Generative AI**
+- 👯 I’m looking to collaborate on **Cypress, Selenium, Playwright**
+- 📫 You can reach me at sujana.sqa@gmail.com
 
 <!--
 **Awesom12/Awesom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
